@@ -2,7 +2,7 @@
 
 | Notebook | Topic | Colab |
 |----------|-------|-------|
-| Notebook 1 | Linear Regression | [Open in Colab](https://colab.research.google.com/drive/1UK8rMGzpagspFNIVZ_zWJD1ScR7TrpOC?usp=sharing) |
+| Notebook 7 | Transformers and Attention Mechanisms | [Open in Colab](https://colab.research.google.com/drive/1JdmCn6g2nFMiUzCvm_4pVdtAfcB_g72o?usp=sharing) |
 
 ---
 
